@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **AlexeyChernikov/AlexeyChernikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![AlexeyChernikov's github stats](https://github-readme-stats.vercel.app/api?username=AlexeyChernikov&title_color=fafbfc&icon_color=28a745&text_color=fafbfc&bg_color=000000&count_private=true&show_icons=true)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexeyChernikov&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyChernikov&layout=compact&card_width=445&hide_border=true" />
+</p>
